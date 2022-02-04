@@ -3,7 +3,7 @@
 | ресурс | изпълнен/работи се | автори/и |
 | - | - |-|
 | 01.SourceControl | Y | ian |
-| /Team | wip | * |
+| ../Team | wip | * |
 | 02.BroiniSistemi |wip|
 | 03.TipoveDanni|wip
 | 04.MasiviSpisuci|wip
