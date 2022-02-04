@@ -5,5 +5,6 @@ module 02 Programming
 
 
 
-# Съдържанието на този ресурс е 
+## Съдържанието на този ресурс следва заданията по курса в тестовата система [Джъдж](https://judge.softuni.org/Contests#!/List/ByCategory/294/Programming-Fundamentals-School)
+## Изпълнение [WORKFLOW.md]()
 
