@@ -5,7 +5,7 @@ module 02 Programming
 
 
 
-Съдържанието на този ресурс следва заданията по курса в тестовата система [Джъдж](https://judge.softuni.org/Contests#!/List/ByCategory/294/Programming-Fundamentals-School)
+Съдържанието на този ресурс следва заданията по курса в тестовата система: [Джъдж](https://judge.softuni.org/Contests#!/List/ByCategory/294/Programming-Fundamentals-School)
 
-Изпълнение [WORKFLOW.md](https://github.com/ITCareer2021/02.Programming/blob/main/WORKFLOW.md)
+Изпълнение: [WORKFLOW.md](https://github.com/ITCareer2021/02.Programming/blob/main/WORKFLOW.md)
 
